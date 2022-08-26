@@ -14,4 +14,13 @@ arrays A and B of n integers, a0, a1. . . an-1 and b0, b1, . . . , bn-1 respecti
 **4**. NegArray.py
 Write a function that counts the number of days with negative air temperature.
 
+**5**. Sequencialnum.py
+Write a function that prints out a sequence of n numbers.
+
+**6**. Primenumber.py
+Write a code that finds the prime number of n integers.
+
+**7**. Leapyear.py
+Write a function to looks for the leap year in the calender years
+
 
