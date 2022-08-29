@@ -1,3 +1,5 @@
+# Question: Reverse a list of strings, append, Yes and sort them out in ascending alphabetical order.
+
 def Reserve(A):
   A.reverse()
   return A

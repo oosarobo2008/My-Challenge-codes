@@ -17,5 +17,5 @@ if __name__ == '__main__':
     marks = 0
     for i in student_marks[query_name]:
         marks = marks + i
-    avg=marks/3
+    avg = marks/3
     print("%.2f" %avg)

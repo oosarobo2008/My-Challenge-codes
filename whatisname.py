@@ -1,5 +1,8 @@
-# Question  What's is your name?
-# Complete the 'print_full_name' function below.
+# What's your name
+# You are given the firstname and lastname of a person on two different lines. 
+# Your task is to read them and print the following:
+# Hello firstname lastname! You just delved into python. What's is your name?
+#
 #
 # The function is expected to return a STRING.
 # The function accepts following parameters:

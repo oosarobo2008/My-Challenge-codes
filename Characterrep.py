@@ -1,6 +1,9 @@
+# Character Replace
+#Task: Read a given string, change the character at a given index and then print the modified string.
+# Example input line is Hello and 2 k
 def mutate_string(string, position, character):
-   l =list(string)
-   l[position]=character
+   l = list(string)
+   l[position] = character
    string = ''.join(l)
    return string
 

@@ -1,4 +1,4 @@
-
+# Question: find out if a number is prime number or not
 
 def Primenumber(num):
 # define a flag variable
